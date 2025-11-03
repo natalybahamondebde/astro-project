@@ -10,12 +10,6 @@
     .list {
         @apply relative py-4 md:py-6 cursor-pointer
     }
-    .subtitle {
-        @apply text-1xl font-medium mb-4;
-    }
-    .point_list {
-        @apply list-disc pl-6 mb-6 space-y-1 mx-10;
-    }
 }
 
 @keyframes zoomIn {
