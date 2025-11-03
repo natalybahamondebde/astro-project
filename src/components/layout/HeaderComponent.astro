@@ -1,0 +1,23 @@
+---
+import LogoComponent from "../misc/LogoComponent.astro";
+import { MainMenu } from '../../data/menu';
+---
+
+<header class="h-[84px]">
+    <div class="fixed top-0 left-0 z-20 w-full bg-black text-white flex items-center h-[84px] px-8">
+        <LogoComponent />
+        <nav class="w-full flex justify-between items-center">
+            <ul class="font-jost font-medium flex items-center gap-9 text-sm tracking-[1.5px]">
+                {MainMenu.map((item) => (
+                        <li class="font-jost px-4 sm:px-6 py-1 hover:text-black hover:border-white hover:bg-gray-200 hover:py-5 transition-all duration-200 ease-in-out">
+                            {item.href ? (
+                                    <a href={item.href}>{item.name}</a>
+                            ) : (
+                                    <span>{item.name}</span>
+                            )}
+                        </li>
+                ))}
+            </ul>
+        </nav>
+    </div>
+</header>

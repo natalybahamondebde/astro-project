@@ -1,0 +1,44 @@
+---
+import items from '../../utils/all-items'; // Now imports the combined array as 'items'
+
+export async function getStaticPaths() {
+    return items.map(item => ({
+        params: { id: item.id.toString() }
+    }));
+}
+
+const { id } = Astro.params;
+const item = items.find(i => i.id.toString() === id);
+
+import Layout from "../../layouts/Layout.astro";
+import SeparatorComponent from "../../components/misc/SeparatorComponent.astro";
+import ButtonComponent from "../../components/misc/ButtonComponent.astro";
+---
+<Layout>
+    <div class="mx-60 my-15 py-5 justify-items-center bg-white item-animation">
+        <div class="grid grid-cols-2 gap-4 mx-10">
+            <div>
+                <img src={`../public/assets/img/items/${item.id}.webp`} alt={item.name} />
+            </div>
+            <div class="ml-10">
+            <p class="text-2xl font-medium uppercase font-jost mb-3 tracking-widest">{item.name}</p>
+            <p class="text-[20px] font-jost font-medium mb-3">${item.price}.00</p>
+            <SeparatorComponent />
+                <p class="font-medium font-jost">Product Details:</p>
+                <ul class="list-disc font-jost font-light ml-5">
+                    {item.description?.map((description) => (
+                            <li>{description}</li>
+                    ))}
+                </ul>
+                <a href="#">
+                    <ButtonComponent Button="ADD TO CART" />
+                </a>
+            </div>
+                <div class="flex justify-center gap-2 mt-2">
+                    <button class="w-3 h-3 bg-gray-400 rounded-full cursor-pointer hover:bg-gray-600"></button>
+                    <button class="w-3 h-3 bg-gray-400 rounded-full cursor-pointer hover:bg-gray-600"></button>
+                </div>
+        </div>
+    </div>
+</Layout>
+

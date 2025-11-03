@@ -1,0 +1,16 @@
+---
+import Layout from '../layouts/Layout.astro';
+import TitleComponent from "../components/misc/TitleComponent.astro";
+import WomensShirtsProductComponent from "../components/products/WomensShirtsProductComponent.astro";
+import SeparatorComponent from "../components/misc/SeparatorComponent.astro";
+import WomensMenuComponent from "../components/menus/WomensMenuComponent.astro";
+---
+
+<Layout>
+    <TitleComponent Titulo="WOMENS SHIRTS" />
+    <SeparatorComponent />
+    <WomensMenuComponent />
+    <div class="grid grid-cols-4 mx-10 gap-5 text-center item-animation">
+        <WomensShirtsProductComponent />
+    </div>
+</Layout>

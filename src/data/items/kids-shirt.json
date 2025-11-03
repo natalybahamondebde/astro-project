@@ -1,0 +1,163 @@
+[
+  {
+    "id": 51,
+    "price": 15,
+    "name": "STARSHIP 2025 YEARLY MISSION PATCH",
+    "item_path": "",
+    "description": ["Mission Patch:",
+      "With Flight 10 marking the conclusion of the Starship Test",
+      "Flight patches, Flight 11 will be commemorated through the",
+      "Starship 2025 Yearly Patch. In the future, we will be releasing",
+      "patches to celebrate milestone launches. Go Starship!"]
+  },
+  {
+    "id": 52,
+    "price": 80,
+    "name": "UNISEX SPACEX TRACK JACKET",
+    "item_path": "",
+    "description": [
+      "Size down for a slimmer fit",
+      "Mid-weight fleece",
+      "SpaceX logo decoration",
+      "Welt zipper pockets",
+      "YKK zippers",
+      "Clean finished interior",
+      "1x1 rib cuffs and bottom hem"
+    ]
+  },
+  {
+    "id": 53,
+    "price": 40,
+    "name": "SPACEX X TRUCKER HAT",
+    "item_path": "",
+    "description": [
+      "One size fits most",
+      "Snapback closure"
+    ]
+  },
+  {
+    "id": 54,
+    "price": 50,
+    "name": "SPACEX BOTTLE",
+    "item_path": "",
+    "description": [
+      "Insulated stainless steel",
+      "36 oz",
+      "Laser etched decoration",
+      "BPA and lead free",
+      "10.7\" tall x 3.6\" diameter",
+      "Wide screw on lid with stainless steel handle"
+    ]
+  },
+  {
+    "id": 55,
+    "price": 35,
+    "name": "SPACEX TUMBLER",
+    "item_path": "",
+    "description": [
+      "Insulated stainless steel",
+      "20 oz",
+      "Laser etched decoration",
+      "BPA and lead free",
+      "6.9\" tall x 3.4\" diameter",
+      "Fits in a cup holder",
+      "Sip through lid"
+    ]
+  },
+  {
+    "id": 56,
+    "price": 175,
+    "name": "STARSHIP TORCH",
+    "item_path": "",
+    "description": [
+      "Refilling on-orbit. The Starship Torch is easily refillable with standard butane canisters (not included).",
+      "Ships empty",
+      "Adjustable flame",
+      "Safety lock",
+      "1:200 scale",
+      "100% not a toy"
+    ]
+  },
+  {
+    "id": 57,
+    "price": 40,
+    "name": "SPACEX X TRUCKER HAT",
+    "item_path": "",
+    "description": [
+      "One size fits most",
+      "Snapback closure"
+    ]
+  },
+  {
+    "id": 58,
+    "price": 50,
+    "name": "SPACEX BOTTLE",
+    "item_path": "",
+    "description": [
+      "Insulated stainless steel",
+      "36 oz",
+      "Laser etched decoration",
+      "BPA and lead free",
+      "10.7\" tall x 3.6\" diameter",
+      "Wide screw on lid with stainless steel handle"
+    ]
+  },
+  {
+    "id": 59,
+    "price": 35,
+    "name": "SPACEX TUMBLER",
+    "item_path": "",
+    "description": [
+      "Insulated stainless steel",
+      "20 oz",
+      "Laser etched decoration",
+      "BPA and lead free",
+      "6.9\" tall x 3.4\" diameter",
+      "Fits in a cup holder",
+      "Sip through lid"
+    ]
+  },
+  {
+    "id": 60,
+    "price": 175,
+    "name": "STARSHIP TORCH",
+    "item_path": "",
+    "description": [
+      "Refilling on-orbit. The Starship Torch is easily refillable with standard butane canisters (not included).",
+      "Ships empty",
+      "Adjustable flame",
+      "Safety lock",
+      "1:200 scale",
+      "100% not a toy"
+    ]
+  },
+  {
+    "id": 61,
+    "price": 35,
+    "name": "SPACEX TUMBLER",
+    "item_path": "",
+    "description": [
+      "Insulated stainless steel",
+      "20 oz",
+      "Laser etched decoration",
+      "BPA and lead free",
+      "6.9\" tall x 3.4\" diameter",
+      "Fits in a cup holder",
+      "Sip through lid"
+    ]
+  },
+  {
+    "id": 62,
+    "price": 175,
+    "name": "STARSHIP TORCH",
+    "item_path": "",
+    "description": [
+      "Refilling on-orbit. The Starship Torch is easily refillable with standard butane canisters (not included).",
+      "Ships empty",
+      "Adjustable flame",
+      "Safety lock",
+      "1:200 scale",
+      "100% not a toy"
+    ]
+  }
+]

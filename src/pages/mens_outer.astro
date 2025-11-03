@@ -1,0 +1,16 @@
+---
+import Layout from '../layouts/Layout.astro';
+import TitleComponent from "../components/misc/TitleComponent.astro";
+import OuterProductComponent from "../components/products/OuterProductComponent.astro";
+import SeparatorComponent from "../components/misc/SeparatorComponent.astro";
+import MensMenuComponent from "../components/menus/MensMenuComponent.astro";
+---
+
+<Layout>
+    <TitleComponent Titulo="MENS OUTERWEAR" />
+    <SeparatorComponent />
+    <MensMenuComponent />
+    <div class="grid grid-cols-4 mx-10 gap-5 text-center">
+        <OuterProductComponent />
+    </div>
+</Layout>

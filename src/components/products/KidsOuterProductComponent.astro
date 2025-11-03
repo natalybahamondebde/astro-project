@@ -1,0 +1,29 @@
+---
+import items from '../../data/items/kids-outer.json';
+---
+
+{items.map((item) => (
+<div key={item.id} class="my-1.5 item-animation">
+    <a href={`/items/${item.id}`}>
+        <div class="group overflow-hidden block relative">
+            <img
+                    src={`/assets/img/items/${item.id}.webp`}
+                    alt={item.name}
+                    class="w-full transition-opacity duration-600 ease-in-out group-hover:opacity-0"
+            />
+            <img
+                    src={`/assets/img/items/${item.id}_hover.webp`}
+                    alt={`${item.name} hover`}
+                    class="w-full h-full absolute top-0 left-0 transition-opacity duration-600 ease-in-out opacity-0 group-hover:opacity-100"
+                    onerror="this.src=this.src.replace('_hover',''); this.onerror=null;"
+            />
+        </div>
+        <p class="uppercase font-jost text-center mt-2 inline-block text-xs font-medium tracking-[1.5px]">
+            {item.name}
+        </p>
+    </a>
+    <p class="text-center font-jost font-medium mt-1 text-xs tracking-[1.5px]">
+        ${item.price}.00
+    </p>
+</div>
+    ))}

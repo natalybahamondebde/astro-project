@@ -1,0 +1,67 @@
+[
+  {
+    "id": 63,
+    "price": 15,
+    "name": "STARSHIP 2025 YEARLY MISSION PATCH",
+    "item_path": "",
+    "description": ["Mission Patch:",
+      "With Flight 10 marking the conclusion of the Starship Test",
+      "Flight patches, Flight 11 will be commemorated through the",
+      "Starship 2025 Yearly Patch. In the future, we will be releasing",
+      "patches to celebrate milestone launches. Go Starship!"]
+  },
+  {
+    "id": 64,
+    "price": 80,
+    "name": "UNISEX SPACEX TRACK JACKET",
+    "item_path": "",
+    "description": [
+      "Size down for a slimmer fit",
+      "Mid-weight fleece",
+      "SpaceX logo decoration",
+      "Welt zipper pockets",
+      "YKK zippers",
+      "Clean finished interior",
+      "1x1 rib cuffs and bottom hem"
+    ]
+  },
+  {
+    "id": 65,
+    "price": 40,
+    "name": "SPACEX X TRUCKER HAT",
+    "item_path": "",
+    "description": [
+      "One size fits most",
+      "Snapback closure"
+    ]
+  },
+  {
+    "id": 66,
+    "price": 50,
+    "name": "SPACEX BOTTLE",
+    "item_path": "",
+    "description": [
+      "Insulated stainless steel",
+      "36 oz",
+      "Laser etched decoration",
+      "BPA and lead free",
+      "10.7\" tall x 3.6\" diameter",
+      "Wide screw on lid with stainless steel handle"
+    ]
+  },
+  {
+    "id": 67,
+    "price": 35,
+    "name": "SPACEX TUMBLER",
+    "item_path": "",
+    "description": [
+      "Insulated stainless steel",
+      "20 oz",
+      "Laser etched decoration",
+      "BPA and lead free",
+      "6.9\" tall x 3.4\" diameter",
+      "Fits in a cup holder",
+      "Sip through lid"
+    ]
+  }
+]

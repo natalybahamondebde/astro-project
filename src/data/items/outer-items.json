@@ -1,0 +1,81 @@
+[
+  {
+    "id": 45,
+    "price": 15,
+    "name": "Unisex SpaceX Pullover Hoodie",
+    "item_path": "",
+    "description": ["Mission Patch:",
+      "With Flight 10 marking the conclusion of the Starship Test",
+      "Flight patches, Flight 11 will be commemorated through the",
+      "Starship 2025 Yearly Patch. In the future, we will be releasing",
+      "patches to celebrate milestone launches. Go Starship!"]
+  },
+  {
+    "id": 46,
+    "price": 80,
+    "name": "UNISEX SPACEX TRACK JACKET",
+    "item_path": "",
+    "description": [
+      "Size down for a slimmer fit",
+      "Mid-weight fleece",
+      "SpaceX logo decoration",
+      "Welt zipper pockets",
+      "YKK zippers",
+      "Clean finished interior",
+      "1x1 rib cuffs and bottom hem"
+    ]
+  },
+  {
+    "id": 47,
+    "price": 40,
+    "name": "Unisex SpaceX Pullover Hoodie",
+    "item_path": "",
+    "description": [
+      "One size fits most",
+      "Snapback closure"
+    ]
+  },
+  {
+    "id": 48,
+    "price": 50,
+    "name": "Unisex Starman Pullover Hoodie",
+    "item_path": "",
+    "description": [
+      "Insulated stainless steel",
+      "36 oz",
+      "Laser etched decoration",
+      "BPA and lead free",
+      "10.7\" tall x 3.6\" diameter",
+      "Wide screw on lid with stainless steel handle"
+    ]
+  },
+  {
+    "id": 49,
+    "price": 35,
+    "name": "Unisex Starship Heatshield Pullover Hoodie",
+    "item_path": "",
+    "description": [
+      "Insulated stainless steel",
+      "20 oz",
+      "Laser etched decoration",
+      "BPA and lead free",
+      "6.9\" tall x 3.4\" diameter",
+      "Fits in a cup holder",
+      "Sip through lid"
+    ]
+  },
+  {
+    "id": 50,
+    "price": 175,
+    "name": "Unisex Occupy Mars Pullover Hoodie",
+    "item_path": "",
+    "description": [
+      "Refilling on-orbit. The Starship Torch is easily refillable with standard butane canisters (not included).",
+      "Ships empty",
+      "Adjustable flame",
+      "Safety lock",
+      "1:200 scale",
+      "100% not a toy"
+    ]
+  }
+]

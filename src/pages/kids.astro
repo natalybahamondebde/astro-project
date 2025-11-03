@@ -1,0 +1,16 @@
+---
+import Layout from '../layouts/Layout.astro';
+import TitleComponent from "../components/misc/TitleComponent.astro";
+import KidsProductComponent from "../components/products/main_pages/KidsProductComponent.astro";
+import SeparatorComponent from "../components/misc/SeparatorComponent.astro";
+import KidsMenuComponent from "../components/menus/KidsMenuComponent.astro";
+---
+
+<Layout>
+    <TitleComponent Titulo="KIDS" />
+    <SeparatorComponent />
+    <KidsMenuComponent />
+    <div class="grid grid-cols-4 mx-10 gap-5 text-center">
+        <KidsProductComponent />
+    </div>
+</Layout>
