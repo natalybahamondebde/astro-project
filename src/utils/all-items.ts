@@ -8,7 +8,7 @@ import kidsOuterData from '../data/items/kids-outer.json';
 import accsItemsData from '../data/items/accs-items.json';
 
 export interface ProductItem {
-    id: string | number;
+    id: number;
     name: string;
     price: number;
     description?: string[];

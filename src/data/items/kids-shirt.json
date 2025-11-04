@@ -1,8 +1,8 @@
 [
   {
     "id": 51,
-    "price": 15,
-    "name": "STARSHIP 2025 YEARLY MISSION PATCH",
+    "price": 25,
+    "name": "KID'S SPACEX MARS XPLORER T-SHIRT",
     "item_path": "",
     "description": ["Mission Patch:",
       "With Flight 10 marking the conclusion of the Starship Test",
@@ -12,8 +12,8 @@
   },
   {
     "id": 52,
-    "price": 80,
-    "name": "UNISEX SPACEX TRACK JACKET",
+    "price": 20,
+    "name": "TODDLER'S SPACEX MARS XPLORER T-SHIRT",
     "item_path": "",
     "description": [
       "Size down for a slimmer fit",
@@ -27,7 +27,7 @@
   },
   {
     "id": 53,
-    "price": 40,
+    "price": 20,
     "name": "SPACEX X TRUCKER HAT",
     "item_path": "",
     "description": [
@@ -37,8 +37,8 @@
   },
   {
     "id": 54,
-    "price": 50,
-    "name": "SPACEX BOTTLE",
+    "price": 20,
+    "name": "Kid's Starship Flight 10 T-Shirt",
     "item_path": "",
     "description": [
       "Insulated stainless steel",
@@ -51,8 +51,8 @@
   },
   {
     "id": 55,
-    "price": 35,
-    "name": "SPACEX TUMBLER",
+    "price": 20,
+    "name": "Kid's Starship Flight 9 T-Shirt",
     "item_path": "",
     "description": [
       "Insulated stainless steel",
@@ -66,8 +66,8 @@
   },
   {
     "id": 56,
-    "price": 175,
-    "name": "STARSHIP TORCH",
+    "price": 20,
+    "name": "Kid's SpaceX Fram2 T-Shirt",
     "item_path": "",
     "description": [
       "Refilling on-orbit. The Starship Torch is easily refillable with standard butane canisters (not included).",
@@ -80,8 +80,8 @@
   },
   {
     "id": 57,
-    "price": 40,
-    "name": "SPACEX X TRUCKER HAT",
+    "price": 20,
+    "name": "Kid's Starship Flight 8 T-Shirt",
     "item_path": "",
     "description": [
       "One size fits most",
@@ -90,8 +90,8 @@
   },
   {
     "id": 58,
-    "price": 50,
-    "name": "SPACEX BOTTLE",
+    "price": 20,
+    "name": "Kid's Starship Flight 6 T-Shirt",
     "item_path": "",
     "description": [
       "Insulated stainless steel",
@@ -104,8 +104,8 @@
   },
   {
     "id": 59,
-    "price": 35,
-    "name": "SPACEX TUMBLER",
+    "price": 20,
+    "name": "Kid's Starship Flight 5 T-Shirt",
     "item_path": "",
     "description": [
       "Insulated stainless steel",
@@ -119,8 +119,8 @@
   },
   {
     "id": 60,
-    "price": 175,
-    "name": "STARSHIP TORCH",
+    "price": 20,
+    "name": "Kid's SpaceX T-Shirt",
     "item_path": "",
     "description": [
       "Refilling on-orbit. The Starship Torch is easily refillable with standard butane canisters (not included).",
@@ -133,8 +133,8 @@
   },
   {
     "id": 61,
-    "price": 35,
-    "name": "SPACEX TUMBLER",
+    "price": 20,
+    "name": "Kid's Starman T-Shirt",
     "item_path": "",
     "description": [
       "Insulated stainless steel",
@@ -149,7 +149,7 @@
   {
     "id": 62,
     "price": 175,
-    "name": "STARSHIP TORCH",
+    "name": "Kid's Dragon T-Shirt",
     "item_path": "",
     "description": [
       "Refilling on-orbit. The Starship Torch is easily refillable with standard butane canisters (not included).",
